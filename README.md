@@ -1,4 +1,4 @@
-#Electronic_Components
+# Electronic_Components
 A comprehensive collection of pinouts, measurements, calculations and how to use electronic components in electronic circuits. Ideal for electronics enthusiasts, students and embedded developers.
 
 # About this repository
