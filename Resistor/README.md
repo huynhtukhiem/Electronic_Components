@@ -38,7 +38,7 @@ EIA-96 codes (2 digits + letter): Small precision resistors may use this system.
 
 Tolerance: Sometimes a letter after the number indicates tolerance, e.g., J = ±5%, K = ±10%.
 
-# How to Measure Resistance Using a Multimeter
+# How to measure resistance by using a VOM
 
 To measure the resistance of a component, follow these steps:
 
@@ -67,4 +67,5 @@ To measure the resistance of a component, follow these steps:
 - If the screen shows “OL” or “∞”, the resistance is too high or the component is open.
 - If the reading is much lower than expected, the component may be shorted or damaged.
 - If the value slowly increases, the component might be a capacitor charging—stop and remove from the circuit.
+
 
