@@ -1,7 +1,7 @@
 # Knowledge of Resistor
 
-Structure and how to use: [https://youtu.be/DYcLFHgVCn0?si=4pEe-w04MNtu5Tzv](https://youtu.be/DYcLFHgVCn0?si=4pEe-w04MNtu5Tzv)
-
+- Structure and how to use: [https://youtu.be/DYcLFHgVCn0?si=4pEe-w04MNtu5Tzv](https://youtu.be/DYcLFHgVCn0?si=4pEe-w04MNtu5Tzv)
+- Measure resistor: [https://youtu.be/VIpySNf2diE?si=S1x9hUQdXc1VD44d](https://youtu.be/VIpySNf2diE?si=S1x9hUQdXc1VD44d)
 # How to read resistor color codes
 
 ![Datasheet](resistor_color_codes_chart.png)
@@ -67,5 +67,6 @@ To measure the resistance of a component, follow these steps:
 - If the screen shows “OL” or “∞”, the resistance is too high or the component is open.
 - If the reading is much lower than expected, the component may be shorted or damaged.
 - If the value slowly increases, the component might be a capacitor charging—stop and remove from the circuit.
+
 
 
