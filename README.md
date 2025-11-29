@@ -14,4 +14,5 @@ This repository will contain knowledge related to:
 
 - Diode
 - LED
+- 7 segment LED
 
